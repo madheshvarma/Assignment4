@@ -1,0 +1,5 @@
+F:\Ass4\Empoyee wage2\obj\Debug\netcoreapp3.1\Empoyee wage2.csproj.AssemblyReference.cache
+F:\Ass4\Empoyee wage2\obj\Debug\netcoreapp3.1\Empoyee wage2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ass4\Empoyee wage2\obj\Debug\netcoreapp3.1\Empoyee wage2.AssemblyInfoInputs.cache
+F:\Ass4\Empoyee wage2\obj\Debug\netcoreapp3.1\Empoyee wage2.AssemblyInfo.cs
+F:\Ass4\Empoyee wage2\obj\Debug\netcoreapp3.1\Empoyee wage2.csproj.CoreCompileInputs.cache
